@@ -37,17 +37,17 @@ I'm a full stack engineer, ex-entrepreneur and technologist experienced in creat
 - [pytorch-mobile-kit](https://github.com/cedrickchee/pytorch-mobile-kit), a PyTorch Mobile starter kit
 </details>
 
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=cedrickchee&show_icons=true"
-    alt="GitHub stats"
-    width="400px"
-    height="400px" />
-
 🌱 Learning: writing, communication skills, and meditation.
 
 💬 Ask me: web development, "boring" technology :smile:, etc.
 
 ⚡ Fun fact: The highest I've ever been: climbed [Mount Kinabalu](https://en.wikipedia.org/wiki/Mount_Kinabalu) in one day.
+
+<img 
+    src="https://github-readme-stats.vercel.app/api?username=cedrickchee&show_icons=true"
+    alt="GitHub stats"
+    width="400px"
+    height="160px" />
 
 ---
 
