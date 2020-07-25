@@ -1,3 +1,10 @@
+<img 
+    src="https://github-readme-stats.vercel.app/api?username=cedrickchee&show_icons=true"
+    align="right"
+    alt="GitHub stats"
+    width="400px"
+    height="465px" />
+
 <h2 align="center">Hi there 👋</h2>
 
 **I make people's lives easier with software.**
@@ -37,27 +44,22 @@ I'm a full stack engineer, ex-entrepreneur and technologist experienced in creat
 - [pytorch-mobile-kit](https://github.com/cedrickchee/pytorch-mobile-kit), a PyTorch Mobile starter kit
 </details>
 
-### GitHub stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=cedrickchee&show_icons=true)
-
 🌱 Learning: writing, communication skills, and meditation.
 
 💬 Ask me: web development, "boring" technology :smile:, etc.
 
 ⚡ Fun fact: The highest I've ever been: climbed [Mount Kinabalu](https://en.wikipedia.org/wiki/Mount_Kinabalu) in one day.
 
-Updates: [![Twitter Follow](https://img.shields.io/twitter/follow/cedric_chee?label=Follow&style=social)](https://twitter.com/cedric_chee)
-
 ---
 
-_I am [available for hire](https://cedricchee.com/2020/04/21/hire-cedric-chee/). I'm looking for a way to transfer my full stack web development expertise, backend development, and engineering skills to a role within a technology company._
+_I am [available for hire](https://cedricchee.com/2020/04/21/hire-cedric-chee/). I'm looking for a way to transfer my full stack dev expertise and skills to a role within a technology company._
 
 ---
 
 <p align="center">
   :large_blue_diamond:&nbsp;<a href="https://cedricchee.com">Website</a>&nbsp;&nbsp;&nbsp;
-  :large_blue_diamond:&nbsp;<a href="https://gist.github.com/cedrickchee">Gist Blog</a>&nbsp;&nbsp;&nbsp;
+  :large_blue_diamond:&nbsp;<a href="https://cedricchee.com">Personal Blog</a>&nbsp;&nbsp;&nbsp;
+  :large_blue_diamond:&nbsp;<a href="https://gist.github.com/cedrickchee">Tech Blog</a>&nbsp;&nbsp;&nbsp;
   :large_blue_diamond:&nbsp;<a href="https://twitter.com/cedric_chee">Twitter</a>&nbsp;&nbsp;&nbsp;
   :large_blue_diamond:&nbsp;<a href="https://www.linkedin.com/in/cedricchee/">LinkedIn</a>
 </p>
