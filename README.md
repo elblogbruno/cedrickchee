@@ -1,12 +1,23 @@
 <h2 align="center">Hi there 👋</h2>
 
-I make people's lives easier with software.
+**I make people's lives easier with software.**
 
-🔭 I’m currently working on [Hou](https://github.com/cedrickchee/hou), a toy programming language and other educational project.
+I'm a self-motivated full stack engineer, ex-entrepreneur and technologist experienced in creating enterprise and consumer technology platforms for over a decade and has built, launched, and supported over 15 web and mobile apps worldwide, manage teams, and mentored engineers.
+
+Currently, I am [available for hire](https://cedricchee.com/2020/04/21/hire-cedric-chee/). I'm looking for a way to transfer my software development, full stack web development expertise, backend development, and engineering skills to a position within a technology company.
+
+🔭 I build lots of side projects, demos, hacks, and educational projects on this account:
+- [Hou](https://github.com/cedrickchee/hou), a toy programming language and compiler
+- [neoCargo](https://github.com/cedrickchee/neoCargo), a microservices prototype
+- [awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp), a curated list of NLP resources
+- [e-Mart](https://github.com/cedrickchee/e-mart), a full stack React online mart app
+- [YDKGo](https://ydkgo.netlify.app/), a book I wrote on advanced Go programming
+- [MinTorrent](https://github.com/cedrickchee/min-torrent), a minimalistic, zero dependency torrent client, written in Go
+- [SaaS-starter](https://github.com/cedrickchee/saas-starter), a complex full stack JavaScript app for SaaS development
 
 🌱 I’m currently learning writing, communication skills, and meditation.
 
-💬 Ask me about web development, "boring" technology :smile:, etc.
+💬 Ask me about web development, JavaScript, Go, "boring" technology :smile:, etc.
 
 📫 How to reach me: Email me or tweet me at [cedric_chee](https://twitter.com/cedric_chee).
 
