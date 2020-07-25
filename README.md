@@ -1,20 +1,10 @@
 <h2 align="center">Hi there 👋</h2>
 
-**I make people's lives easier with software.**
+I **make people's lives easier with software**.
 
-I'm a full stack engineer, ex-entrepreneur and technologist experienced in creating enterprise and consumer technology platforms for over a decade and has built, launched, and supported over 15 web and mobile apps worldwide, managed team, mentored engineers.
+I'm a **full stack engineer**, **ex-entrepreneur** and **technologist** experienced in creating enterprise and consumer Internet technology applications for over a decade and **has built, launched, and supported over 15 web and mobile apps worldwide**, managed team, and mentored engineers.
 
-<details>
-
-<summary>Skills</summary>
-
-- Frontend: JavaScript, ES6, TypeScript, React, Jest, Webpack
-- Backend: Node.js, Go, Express, SQL, PostgreSQL, MongoDB, Redis, container, Kafka, Elasticsearch
-- Cloud computing: AWS, Google Cloud
-- CI/CD: CircleCI
-</details>
-
-🔭 I build lots of side projects, demos, hacks, and educational projects here:
+🔭 I build lots of **side projects**, demos, hacks, and educational projects here:
 - [Hou](https://github.com/cedrickchee/hou), a toy programming language and compiler
 - [neoCargo](https://github.com/cedrickchee/neoCargo), a microservices prototype
 - [e-Mart](https://github.com/cedrickchee/e-mart), a full stack React online mart app
@@ -25,7 +15,7 @@ I'm a full stack engineer, ex-entrepreneur and technologist experienced in creat
 
 <details>
 
-<summary>More...</summary>
+<summary>See more...</summary>
 
 - [awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp), a curated list of NLP resources
 - [YDKGo](https://ydkgo.netlify.app/), a book I wrote on advanced Go programming
@@ -37,11 +27,21 @@ I'm a full stack engineer, ex-entrepreneur and technologist experienced in creat
 - [pytorch-mobile-kit](https://github.com/cedrickchee/pytorch-mobile-kit), a PyTorch Mobile starter kit
 </details>
 
-🌱 Learning: writing, communication skills, and meditation.
+<details>
 
-💬 Ask me: web development, "boring" technology :smile:, etc.
+<summary>See skills</summary>
 
-⚡ Fun fact: The highest I've ever been: climbed [Mount Kinabalu](https://en.wikipedia.org/wiki/Mount_Kinabalu) in one day.
+- Frontend: JavaScript, ES6, TypeScript, React, Jest, Webpack
+- Backend: Node.js, Go, Express, SQL, PostgreSQL, MongoDB, Redis, container, Kafka, Elasticsearch
+- Cloud computing: AWS, Google Cloud
+- CI/CD: CircleCI
+</details>
+
+🌱 **Learning:** writing, communication skills, and meditation.
+
+💬 **Ask me:** web development, "boring" technology :smile:, etc.
+
+⚡ **Fun fact:** The highest I've ever been — climbed [Mount Kinabalu](https://en.wikipedia.org/wiki/Mount_Kinabalu) in one day.
 
 <img 
     src="https://github-readme-stats.vercel.app/api?username=cedrickchee&show_icons=true"
@@ -57,8 +57,8 @@ _I am [available for hire](https://cedricchee.com/2020/04/21/hire-cedric-chee/).
 
 <p align="center">
   :large_blue_diamond:&nbsp;<a href="https://cedricchee.com">Website</a>&nbsp;&nbsp;&nbsp;
-  :large_blue_diamond:&nbsp;<a href="https://cedricchee.com">Personal Blog</a>&nbsp;&nbsp;&nbsp;
   :large_blue_diamond:&nbsp;<a href="https://gist.github.com/cedrickchee">Tech Blog</a>&nbsp;&nbsp;&nbsp;
+  :large_blue_diamond:&nbsp;<a href="https://cedricchee.com">Personal Blog</a>&nbsp;&nbsp;&nbsp;
   :large_blue_diamond:&nbsp;<a href="https://twitter.com/cedric_chee">Twitter</a>&nbsp;&nbsp;&nbsp;
   :large_blue_diamond:&nbsp;<a href="https://www.linkedin.com/in/cedricchee/">LinkedIn</a>
 </p>
