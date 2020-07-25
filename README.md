@@ -2,9 +2,9 @@
 
 **I make people's lives easier with software.**
 
-I'm a self-motivated full stack engineer, ex-entrepreneur and technologist experienced in creating enterprise and consumer technology platforms for over a decade and has built, launched, and supported over 15 web and mobile apps worldwide, manage teams, and mentored engineers.
+I'm a self-motivated full stack engineer, ex-entrepreneur and technologist experienced in creating enterprise and consumer technology platforms for over a decade and has built, launched, and supported over 15 web and mobile apps worldwide, managed team, mentored engineers.
 
-Currently, I am [available for hire](https://cedricchee.com/2020/04/21/hire-cedric-chee/). I'm looking for a way to transfer my software development, full stack web development expertise, backend development, and engineering skills to a position within a technology company.
+I am [available for hire](https://cedricchee.com/2020/04/21/hire-cedric-chee/). I'm looking for a way to transfer my full stack web development expertise, backend development, and engineering skills to a role within a technology company.
 
 🔭 I build lots of side projects, demos, hacks, and educational projects on this account:
 - [Hou](https://github.com/cedrickchee/hou), a toy programming language and compiler
@@ -14,6 +14,8 @@ Currently, I am [available for hire](https://cedricchee.com/2020/04/21/hire-cedr
 - [YDKGo](https://ydkgo.netlify.app/), a book I wrote on advanced Go programming
 - [MinTorrent](https://github.com/cedrickchee/min-torrent), a minimalistic, zero dependency torrent client, written in Go
 - [SaaS-starter](https://github.com/cedrickchee/saas-starter), a complex full stack JavaScript app for SaaS development
+- [My Knowledge Wiki](https://github.com/cedrickchee/knowledge), my second "brain", digital garden
+- [experiments](https://github.com/cedrickchee/experiments), a collection of code snippets
 
 🌱 I’m currently learning writing, communication skills, and meditation.
 
