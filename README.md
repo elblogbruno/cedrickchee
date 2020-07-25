@@ -1,5 +1,13 @@
 <h2 align="center">Hi there 👋</h2>
 
+<a href="https://www.visualcv.com/cedricchee/#portfolio" target="_blank">
+<img 
+    src="https://github.com/cedrickchee/cedrickchee/blob/master/media/portfolio.png"
+    alt="My portfolio"
+    align="right"
+    width="380px" />
+</a>
+
 I **make people's lives easier with software**.
 
 I'm a **full stack engineer**, **ex-entrepreneur** and **technologist** experienced in creating enterprise and consumer Internet technology applications for over a decade and **has built, launched, and supported over 15 web and mobile apps worldwide**, managed team, and mentored engineers.
