@@ -1,10 +1,3 @@
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=cedrickchee&show_icons=true"
-    align="right"
-    alt="GitHub stats"
-    width="400px"
-    height="465px" />
-
 <h2 align="center">Hi there 👋</h2>
 
 **I make people's lives easier with software.**
@@ -43,6 +36,12 @@ I'm a full stack engineer, ex-entrepreneur and technologist experienced in creat
 - [capsule-net-pytorch](https://github.com/cedrickchee/capsule-net-pytorch), a Capsule Network for PyTorch
 - [pytorch-mobile-kit](https://github.com/cedrickchee/pytorch-mobile-kit), a PyTorch Mobile starter kit
 </details>
+
+<img 
+    src="https://github-readme-stats.vercel.app/api?username=cedrickchee&show_icons=true"
+    alt="GitHub stats"
+    width="400px"
+    height="400px" />
 
 🌱 Learning: writing, communication skills, and meditation.
 
