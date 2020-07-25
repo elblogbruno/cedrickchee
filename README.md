@@ -14,7 +14,10 @@ I am [available for hire](https://cedricchee.com/2020/04/21/hire-cedric-chee/). 
 - [YDKGo](https://ydkgo.netlify.app/), a book I wrote on advanced Go programming
 - [MinTorrent](https://github.com/cedrickchee/min-torrent), a minimalistic, zero dependency torrent client, written in Go
 - [SaaS-starter](https://github.com/cedrickchee/saas-starter), a complex full stack JavaScript app for SaaS development
-- [My Knowledge Wiki](https://github.com/cedrickchee/knowledge), my second "brain", digital garden
+- [RNNoise](https://github.com/cedrickchee/rnnoise-nodejs), a Node.js library for audio noise reduction
+- [tdd-node-pg-knex](https://github.com/cedrickchee/tdd-node-pg-knex), TDD with Node.js and SQL
+- [painless-pg-node](https://github.com/cedrickchee/painless-pg-node), a boilerplate for painless Postgres Node.js backend with Objection.js
+- [Knowledge](https://github.com/cedrickchee/knowledge), my second "brain", digital garden, wiki
 - [experiments](https://github.com/cedrickchee/experiments), a collection of code snippets
 
 🌱 I’m currently learning writing, communication skills, and meditation.
