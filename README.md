@@ -10,7 +10,7 @@
 
 I **make people's lives easier with software**.
 
-I'm a **full stack engineer**, **ex-entrepreneur** and **technologist** experienced in creating enterprise and consumer Internet technology applications for over a decade and **has built, launched, and supported over 15 web and mobile apps worldwide**, managed team, and mentored engineers.
+I'm a **full stack engineer**, **ex-entrepreneur**, **technologist**, and **mentor** experienced in creating enterprise and consumer Internet technology applications for over a decade and **has built, launched, and supported over 15 web and mobile apps worldwide**. 👉
 
 🔭 I build lots of **side projects**, demos, hacks, and educational projects here:
 - [Hou](https://github.com/cedrickchee/hou), a toy programming language and compiler
@@ -39,7 +39,7 @@ I'm a **full stack engineer**, **ex-entrepreneur** and **technologist** experien
 
 💬 **Ask me:** web development, "boring" technology :smile:, etc.
 
-💼 I am [available for hire](https://cedricchee.com/2020/04/21/hire-cedric-chee/).
+💼 I am [available for hire](https://cedricchee.com/2020/04/21/hire-cedric-chee/) ([CV](https://www.visualcv.com/cedricchee)).
 
 ⚡ **Fun fact:** The highest I've ever been — climbed [Mount Kinabalu](https://en.wikipedia.org/wiki/Mount_Kinabalu) in one day.
 
@@ -65,9 +65,7 @@ I'm a **full stack engineer**, **ex-entrepreneur** and **technologist** experien
 ---
 
 <p align="center">
-  :large_blue_diamond:&nbsp;<a href="https://cedricchee.com">Website</a>&nbsp;&nbsp;&nbsp;
   :large_blue_diamond:&nbsp;<a href="https://gist.github.com/cedrickchee">Tech Blog</a>&nbsp;&nbsp;&nbsp;
   :large_blue_diamond:&nbsp;<a href="https://cedricchee.com/blog">Personal Blog</a>&nbsp;&nbsp;&nbsp;
-  :large_blue_diamond:&nbsp;<a href="https://twitter.com/intent/follow?screen_name=cedric_chee&tw_p=followbutton">Twitter</a>&nbsp;&nbsp;&nbsp;
   :large_blue_diamond:&nbsp;<a href="https://www.linkedin.com/in/cedricchee/">LinkedIn</a>
 </p>
